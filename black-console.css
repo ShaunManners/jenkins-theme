@@ -1,12 +1,12 @@
 pre (
-    color: white;
+    color: white!important;
     background-color: black;
 }
 
 .console-output {
     padding: 1em;
     background-color: black;
-    color: white;
+    color: white!important;
 }
 
 .console-output a:link {
