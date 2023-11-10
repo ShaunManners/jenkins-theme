@@ -1,6 +1,7 @@
 
 .console-output {
     padding: 1em;
+    line-height: 1em;
     background-color: black;
     color: white!important;
 }
